@@ -4,7 +4,7 @@
     <title>Proxor's shop</title>
 </head>
 <body>
-<h1>Retail shop</h1>
+<h1>BUYSELL shop</h1>
 <hr>
 <h4>Те, кто верит – налетай. Те, кто жадный – убегай.<br>
     Отделяем мух от котлет, а тех, кто мне верит – от тех, кто нет.<br>
